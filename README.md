@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Dockerized react app
+
+you have to set the container down [docker-compose down]
+when you need to make a new container [docker-compose up --build]
+
 ## Available Scripts
 
 In the project directory, you can run:
